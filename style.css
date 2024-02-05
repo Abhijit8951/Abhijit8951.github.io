@@ -22,7 +22,7 @@ h2{
     background-color: aqua;
     justify-content: center;
 }
-nav a{
+.nav a{
     text-decoration: none;
     font-size: 3em;
 }
